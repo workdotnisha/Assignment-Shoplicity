@@ -54,11 +54,6 @@ I
    npm run dev
    ```
 
-4. **Build for production**
-   ```bash
-   npm run build
-   ```
-
 ## Usage
 
 1. **Login**
