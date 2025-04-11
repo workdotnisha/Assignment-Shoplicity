@@ -41,8 +41,7 @@ I
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/shopnow-react.git
-   cd shopnow-react
+   git clone https://github.com/workdotnisha/Assignment-Shoplicity.git
    ```
 
 2. **Install dependencies**
